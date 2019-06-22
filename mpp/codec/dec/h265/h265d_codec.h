@@ -39,6 +39,8 @@ enum MppColorSpace {
     MPPCOL_SPC_SMPTE170M   = 6, ///< also ITU-R BT601-6 525 / ITU-R BT1358 525 / ITU-R BT1700 NTSC / functionally identical to above
     MPPCOL_SPC_SMPTE240M   = 7,
     MPPCOL_SPC_YCOCG       = 8, ///< Used by Dirac / VC-2 and H.264 FRext, see ITU-T SG16
+    MPPCOL_SPC_BT2020_NCL  = 9,  ///< ITU-R BT2020 non-constant luminance system
+    MPPCOL_SPC_BT2020_CL   = 10, ///< ITU-R BT2020 constant luminance system
     MPPCOL_SPC_NB             , ///< Not part of ABI
 };
 
