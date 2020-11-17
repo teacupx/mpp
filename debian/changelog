@@ -1,3 +1,9 @@
+mpp (1.4.0-3armbian3) stable; urgency=medium
+
+  * Import changes from fork Kwiboo/mpp, branch libreelec-hdr, and version bump
+
+ -- JMCC <JMCC@forum.armbian.com>  Tue, 17 Nov 2020 20:40:54 +0000
+
 mpp (1.4.0-1) stable; urgency=critical
 
   [ Herman Chen ]
