@@ -1,3 +1,9 @@
+mpp (1.4.0-4armbian1) stable; urgency=medium
+
+  * Fix on tag release_20171218 and version bump
+
+ -- JMCC <JMCC@forum.armbian.com>  Thu, 31 Dec 2020 18:28:49 +0000
+
 mpp (1.4.0-2armbian2) stable; urgency=medium
 
   * Fix on tag release_20171218 and version bump
